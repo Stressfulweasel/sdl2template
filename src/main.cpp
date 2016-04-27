@@ -15,6 +15,7 @@
 #include <SDL2/SDL_ttf.h>
 #endif
 
+
 std::string exeName;
 SDL_Window *win; //pointer to the SDL_Window
 SDL_Renderer *ren; //pointer to the SDL_Renderer
